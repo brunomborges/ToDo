@@ -22,18 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateAccountTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/Steps/CreateAccountTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ToDoSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/Steps/ToDoSteps.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,6 +56,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TaskPage.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Features/TaskPage.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="80" selection-start-line="8" selection-start-column="5" selection-end-line="9" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HeaderPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/Pages/Partials/HeaderPage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,44 +86,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginPageTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/Steps/LoginPageTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/Steps/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4857143">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/Pages/LoginPage.java">
+      <file leaf-file-name="CreateAccount.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Features/CreateAccount.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskPageTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/Steps/TaskPageTest.java">
+      <file leaf-file-name="LoginPage.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Features/LoginPage.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubTaskTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/Steps/SubTaskTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -138,6 +124,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -158,7 +147,6 @@
         <option value="$PROJECT_DIR$/Test/Pages/Partials/HeaderPage.java" />
         <option value="$PROJECT_DIR$/Test/Pages/MainPage.java" />
         <option value="$PROJECT_DIR$/Test/Pages/ModalPage.java" />
-        <option value="$PROJECT_DIR$/javaFeatureTeste.java" />
         <option value="$PROJECT_DIR$/Test/CreateAccount.java" />
         <option value="$PROJECT_DIR$/Test/CreateAccountTest.java" />
         <option value="$PROJECT_DIR$/Test/MyStepdefs.java" />
@@ -176,6 +164,7 @@
         <option value="$PROJECT_DIR$/Test/Steps/ToDoSteps.java" />
         <option value="$PROJECT_DIR$/Test/Steps/SubTaskTest.java" />
         <option value="$PROJECT_DIR$/Test/Steps/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/javaFeatureTeste.java" />
       </list>
     </option>
   </component>
@@ -254,10 +243,6 @@
               <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Steps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -274,28 +259,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToDo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToDo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,7 +293,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Cucumber java.All Features in: Features">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruno\Desktop\ToDo\Test\Steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.All Features in: Features (1)">
     <configuration default="false" name="Feature: CreateAccount" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -342,30 +310,6 @@
       <option name="GLUE" value="Steps" />
       <option name="myNameFilter" value="" />
       <option name="myGeneratedName" value="Feature: CreateAccount" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="flipkart" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Feature: LoginPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="myFilePath" value="$PROJECT_DIR$/Features/LoginPage.feature" />
-      <option name="GLUE" value="Steps" />
-      <option name="myNameFilter" value="" />
-      <option name="myGeneratedName" value="Feature: LoginPage" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
@@ -448,6 +392,30 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="flipkart" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="All Features in: Features (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="myFilePath" value="$PROJECT_DIR$/Features" />
+      <option name="GLUE" value="Steps" />
+      <option name="myNameFilter" value="" />
+      <option name="myGeneratedName" value="All Features in: Features" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ToDo" />
       <envs />
       <method />
     </configuration>
@@ -716,18 +684,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Cucumber java.Feature: CreateAccount" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber java.Feature: LoginPage" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber java.Feature: TaskPage" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber java.All Features in: Features" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: ModalPage" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber java.Feature: TaskPage" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber java.All Features in: Features" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: ModalPage" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber java.All Features in: Features (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber java.All Features in: Features" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Feature: ModalPage" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber java.Feature: TaskPage" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: CreateAccount" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: LoginPage" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber java.All Features in: Features (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber java.All Features in: Features" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber java.Feature: ModalPage" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: TaskPage" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: CreateAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -754,6 +722,9 @@
     <history-entry file="All_Features_in__Features - 2015.12.14 at 03h 24m 38s.xml">
       <configuration name="All Features in: Features" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="All_Features_in__Features_(1) - 2015.12.14 at 03h 35m 01s.xml">
+      <configuration name="All Features in: Features (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
     <history-entry file="Feature__CreateAccount - 2015.12.14 at 02h 42m 00s.xml">
       <configuration name="Feature: CreateAccount" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -762,9 +733,6 @@
     </history-entry>
     <history-entry file="Feature__ModalPage - 2015.12.14 at 03h 12m 06s.xml">
       <configuration name="Feature: ModalPage" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__TaskPage - 2015.12.14 at 02h 29m 20s.xml">
-      <configuration name="Feature: TaskPage" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="Feature__TaskPage - 2015.12.14 at 02h 30m 57s.xml">
       <configuration name="Feature: TaskPage" configurationId="CucumberJavaRunConfigurationType" />
@@ -777,8 +745,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -787,10 +755,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44492912" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44492912" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1452381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1452381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -850,24 +818,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/Steps/SubTaskTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/TaskPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="45" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/Pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -880,24 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/CreateAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/LoginPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,14 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/TaskPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,16 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/CreateAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/Pages/Partials/HeaderPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -984,14 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,17 +950,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flipkart.iml">
+    <entry file="file://$PROJECT_DIR$/ToDo.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaFeatureTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1136,50 +1035,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding>
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/CreateAccount.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/TaskPage.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="80" selection-start-line="8" selection-start-column="5" selection-end-line="9" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/LoginPage.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/ModalPage.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/CreateAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#533#534#0" expanded="false" />
+            <element signature="e#601#602#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1210,14 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/TaskPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/Pages/Partials/HeaderPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1236,20 +1085,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/SubTaskTest.java">
+    <entry file="file://$PROJECT_DIR$/Features/CreateAccount.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Steps/LoginPageTest.java">
+    <entry file="file://$PROJECT_DIR$/Features/LoginPage.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/ModalPage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/TaskPage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="80" selection-start-line="8" selection-start-column="5" selection-end-line="9" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Steps/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="18" />
           <folding />
         </state>
       </provider>
